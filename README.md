@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **MERN Stack Applications**
 - 🌱 I’m learning **TypeScript, AI/ML**
 - 💬 Ask me about **React.js, Node.js, MongoDB**
-- 📫 Reach me at **ravi.teja@example.com**
+- 📫 Reach me at **ravitejagatla1@gmail.com**
 
 ## 🚀 Tech Stack:
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
