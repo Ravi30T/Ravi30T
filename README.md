@@ -18,7 +18,7 @@
 ### 🚀 **About Me**
 - 🔭 I’m currently working on **MERN Stack Applications**  
 - 🌱 Learning **TypeScript & AI/ML**  
-- 💬 Ask me about **React.js, Node.js, MongoDB, Express.js, Nest.js **  
+- 💬 Ask me about **React.js, Node.js, MongoDB, Express.js, Nest.js**  
 - ⚡ Fun Fact: **I love tech & watching cricket!**  
 
 ---
