@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C7FF&width=435&lines=MERN+Full+Stack+Developer!;React.js+%7C+Node.js+%7C+MongoDB+%7C+Nest.js;Passionate+about+Web+Development!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C7FF&width=435&lines=MERN+Full+Stack+Developer!;React.js+%7C+Node.js+%7C+MongoDB;Passionate+about+Web+Development!" />
 </p>
 
 <p align="center">
